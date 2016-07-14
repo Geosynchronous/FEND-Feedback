@@ -81,9 +81,10 @@ July 14, 2016
 		- currently, there are two sections:
 			- OUTLINE
 				- Structure to be updated and revised as needed
+				- This first pass is just off the top of my head, it is not all inclusive
 			- NOTES
-				- New Notes sequentially numbering and added as needed
+				- New Notes sequentially numbered and added as needed
 				- Form the basis of my email feedback to you as it occurs
-- Click the above link to see the OUTLINE ant this NOTE.
+- Click the above link to see the OUTLINE and this NOTE.
 - Cheers, Geo
 	
