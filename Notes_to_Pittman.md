@@ -76,5 +76,14 @@ GENERAL COURSEWARE AREAS
 July 14, 2016
 12:21 AM
 - **Note 1**
-- Cameron, thanks for the opportunity to email chat with you.  Since there is a lot I want to chat about, I will have my notes accessable in one place on a repo.  Our actual email conversations will be private, and I will only post my feedback in it.
-	- I have created a repo to keep all my notes in one place:  [FEND-Feedback/Notes_to_Pittman]()
+- Cameron, thanks for the opportunity to email chat with you.
+	- Since there is a lot I want to chat about, I will have my notes accessable in one place on a repo.  Our actual email conversations will be private, and I will only post my feedback in it: [FEND-Feedback/Notes_to_Pittman](https://github.com/Geosynchronous/FEND-Feedback/blob/master/Notes_to_Pittman.md)
+		- currently, there are two sections:
+			- OUTLINE
+				- Structure to be updated and revised as needed
+			- NOTES
+				- New Notes sequentially numbering and added as needed
+				- Form the basis of my email feedback to you as it occurs
+- Click the above link to see the OUTLINE ant this NOTE.
+- Cheers, Geo
+	
