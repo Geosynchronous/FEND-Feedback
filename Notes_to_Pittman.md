@@ -71,3 +71,10 @@ GENERAL COURSEWARE AREAS
 			- Git
 			- Command Line
 
+# NOTES
+
+July 14, 2016
+12:21 AM
+- **Note 1**
+- Cameron, thanks for the opportunity to email chat with you.  Since there is a lot I want to chat about, I will have my notes accessable in one place on a repo.  Our actual email conversations will be private, and I will only post my feedback in it.
+	- I have created a repo to keep all my notes in one place:  [FEND-Feedback/Notes_to_Pittman]()
