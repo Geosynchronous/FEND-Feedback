@@ -88,3 +88,35 @@ July 14, 2016
 - Click the above link to see the OUTLINE and this NOTE.
 - Cheers, Geo
 	
+
+Friday July 15, 2016
+
+8:48 AM
+- **Note 2**
+- Cameron, I really like the new platform engine
+	- Much more responsive, information and link organization better, better UI overall
+	- Three things I would like to see added:
+				- (or an index vocabulary/terminology list that is hopefully searchable)
+		- **Power User Thread**
+			- Get non-essential course materail out of the way of student learning
+			- Under RESOURCES Menu have access to all this material
+			- As new cool non-essential material comes up in course, it can be briefly mentioned in Video and/or Student Notes
+			- Make it clear that it is non-essential to completing the course
+			- This will help beginners focus better on the CORE Learning Issues, and speed up progress through the course
+			- This will allow all students to access this information when they are ready
+		- **More Timely Updates of Student Notes**
+			- Re-doing the course videos is understandably an expensive undertaking
+			- Updating the STUDENT NOTES is not that expensive, and can really keep students  and Udacity support, coaching and mentoring from wasting their time
+			- Things that require timely updates
+				- Deprecated Code
+				- Newer Versions (Chrome Dev Tools)
+				- Anything that comes up in Udacity Discussion Forum as a problem with the course
+				- Missing instructions
+			- A better internal pipeline for responding to these issues
+			- Training students to use Forums more effectively, so that this needed feedback flwos better
+	- I will be glad to respond and clarify anything here if needed, may well talk about it in more detail later in these notes too. 
+- Cheers, Geo	- **Search Capability** 
+			- Search entire FEND Nanodegree Course	
+			- (or at least an index of all links that I can search)
+
+
