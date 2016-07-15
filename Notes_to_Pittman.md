@@ -95,8 +95,11 @@ Friday July 15, 2016
 - **Note 2**
 - Cameron, I really like the new platform engine
 	- Much more responsive, information and link organization better, better UI overall
-	- Three things I would like to see added:
-				- (or an index vocabulary/terminology list that is hopefully searchable)
+	- Three major things I would like to see added:
+		- **Search Capability** 
+			- Search entire FEND Nanodegree Course	
+			- (or at least an index of all links that I can search)
+			- (or an index vocabulary/terminology list that is hopefully searchable)
 		- **Power User Thread**
 			- Get non-essential course materail out of the way of student learning
 			- Under RESOURCES Menu have access to all this material
@@ -115,8 +118,7 @@ Friday July 15, 2016
 			- A better internal pipeline for responding to these issues
 			- Training students to use Forums more effectively, so that this needed feedback flwos better
 	- I will be glad to respond and clarify anything here if needed, may well talk about it in more detail later in these notes too. 
-- Cheers, Geo	- **Search Capability** 
-			- Search entire FEND Nanodegree Course	
-			- (or at least an index of all links that I can search)
+- Cheers, Geo
+
 
 
